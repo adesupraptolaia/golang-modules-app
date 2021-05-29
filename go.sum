@@ -2,3 +2,5 @@ github.com/adesupraptolaia/golang-modules-package v1.0.0 h1:3y5zAscQFjZ59dCJdY9D
 github.com/adesupraptolaia/golang-modules-package v1.0.0/go.mod h1:AtdHVPZ/JQa6Ny/S14iyWZ3qexBHRNCAJ6/Xw2znXik=
 github.com/adesupraptolaia/golang-modules-package v1.0.1 h1:jH3DewXeegnjdNqb+1FTnX6oMmYMbN6zsrNt6/gd22U=
 github.com/adesupraptolaia/golang-modules-package v1.0.1/go.mod h1:AtdHVPZ/JQa6Ny/S14iyWZ3qexBHRNCAJ6/Xw2znXik=
+github.com/adesupraptolaia/golang-modules-package/v2 v2.0.0 h1:gdMvBltpOzLdHp+E6FU0X17KZIfqAyeLoyh+uYpx12g=
+github.com/adesupraptolaia/golang-modules-package/v2 v2.0.0/go.mod h1:F+nVznhY9I9rwfY1pA3ZU6kLIB9RSE9VPswo/5HkiSc=
